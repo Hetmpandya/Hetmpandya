@@ -42,10 +42,10 @@
 ## 🌐 Let’s Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/Het Pandya">
+  <a href="https://linkedin.com/in/Het Pandya" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-111?style=for-the-badge&logo=linkedin"/>
   </a>
-  <a href="https://x.com/hetmpandya">
+  <a href="https://x.com/hetmpandya" target="blank">
     <img src="https://img.shields.io/badge/Twitter-111?style=for-the-badge&logo=twitter"/>
   </a>
   <a href="mailto:hetpandya2546@gmail.com">
@@ -53,7 +53,7 @@
   </a>
 </p>
 
----
+
 
 <p align="center">
   ⚡ <i>I build intelligent systems that solve real problems.</i>
