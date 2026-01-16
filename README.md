@@ -1,7 +1,7 @@
 <!-- =================== PROFILE README =================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=gradient&text=Hi%20I'm%20Het&fontSize=44&fontAlignY=40&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=gradient&text=Hi%20I'm%20Het&fontSize=40&fontAlignY=38&animation=fadeIn" />
 </p>
 
 <h3 align="center">
