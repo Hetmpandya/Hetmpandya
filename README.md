@@ -42,13 +42,13 @@
 ## 🌐 Let’s Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-profile">
+  <a href="https://linkedin.com/in/Het Pandya">
     <img src="https://img.shields.io/badge/LinkedIn-111?style=for-the-badge&logo=linkedin"/>
   </a>
-  <a href="https://x.com/your-handle">
+  <a href="https://x.com/hetmpandya">
     <img src="https://img.shields.io/badge/Twitter-111?style=for-the-badge&logo=twitter"/>
   </a>
-  <a href="mailto:your-email@gmail.com">
+  <a href="mailto:hetpandya2546@gmail.com">
     <img src="https://img.shields.io/badge/Email-111?style=for-the-badge&logo=gmail"/>
   </a>
 </p>
